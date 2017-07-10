@@ -50,5 +50,3 @@ exit /b
 
 :x
 exit /b
-
-new lines
