@@ -4,6 +4,8 @@ title escape
 color a
 cls
 
+start speech.vbs
+
 echo.
 echo 1. shutdown
 echo 2. restart
