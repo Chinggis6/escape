@@ -40,6 +40,7 @@ rundll32 user32.dll,LockWorkStation
 exit /b
 
 :5
+rem /v
 logoff
 exit /b
 
